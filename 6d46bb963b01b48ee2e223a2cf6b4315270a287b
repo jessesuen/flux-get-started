@@ -1,0 +1,1 @@
+{"jobID":"9e16234d-2a83-0796-a600-cf47b31372dd","spec":{"type":"policy","cause":{"Message":"","User":"Jesse Suen \u003cjessesuen@gmail.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"automated":"true"}}}},"result":null}
